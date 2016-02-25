@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+#footer
+{
+	width:100%;
+	height:auto;
+	background-color:#E5FADB;
+border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+float: left;
+}
+.left {
+float: left;
+width: 65%;
+}
+.left img {
+width: 5%;
+border-radius: 17px;
+float:left;
+}
+.left p {
+margin-left: 13%;
+margin-top: 5px;
+font-size: 20px;
+/* font-family: -webkit-pictograph; */
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+color: brown;
+}
+.left ul {
+margin-top: -14px;
+}
+.left ul li {
+display: block;
+margin-left: 55px;
+height: 38px;
+}
+.left ul li a {
+text-decoration: none;
+color: black;
+font-family: sans-serif;
+font-size: 14px;
+padding-top: -2px;
+margin-top: 8px;
+float: left;
+}
+.right p {
+
+margin-top: 8px;
+font-size: 20px;
+/* font-family: -webkit-pictograph; */
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+color: brown;
+margin-bottom: 5px;
+}
+.middle img {
+float: left;
+padding-left: -44px;
+margin-left: -37%;
+margin-top: 15px;
+}
+.right {
+padding-left: 38px;
+float: left;
+}
+.last {
+background-color: skyblue;
+margin-bottom: -6px;
+height: 32px;
+border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+.last p {
+/* margin-top: 13px; */
+padding-top: 7px;
+}
+.right1 img {
+width: 24%;
+margin-left: 3%;
+margin-top: 10px;
+}

@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+.main_right pre p {
+color: aqua;
+font-family: sans-serif;
+font-size: 22px;
+margin-top: 12px;
+margin-left: 40px;
+margin-right: 40px;
+}
+.main_right p {
+color: white;
+font-family: -webkit-body;
+width: 90%;
+margin-left: 42px;
+margin-top: -9px;
+font-size:17px;
+}
+.main_right form {
+margin-left: 50px;
+
+}

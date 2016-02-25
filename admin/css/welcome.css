@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+#container
+{
+	width:83.3pc;
+	height:auto;
+	background-color:darkslategrey;
+}
+#container1
+{
+	width:80%;
+	height:auto;
+	margin-left: 9.6%;
+	border:solid 5px #99CCCC;
+	border-radius: 20px;
+	background-color:teal;
+}
+.text p {
+font-family: sans-serif;
+/* font: -webkit-small-control; */
+font-size: 18px;
+color: azure;
+margin-left: 75px;
+margin-top: -2%;
+float: inherit;
+margin-right: 29px;
+}
+.text h2 {
+color: aqua;
+margin-left: 46px;
+margin-top: 20pc;
+}
+.main_img img {
+margin-left: 19%;
+margin-top: 3%;
+border:solid 4px #99CCCC;
+border-radius:15px;
+margin-bottom:15px;
+}
+
+form {
+margin-left: 9%;
+margin-top: -37px;
+margin-bottom: 30px;
+}
+input,textarea {
+from: initial;
+background-color: beige;
+/* width: 176px; */
+height: 22px;
+border-radius: 6px;
+margin-bottom: -11px;
+}

@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+.right
+{
+	width:100%;
+	height:auto;
+	background-color:#E3FADE;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom:none;
+float: left;
+}
+.admin_txt h1 {
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 70px;
+color: darkolivegreen;
+margin-left: 34%;
+margin-top: 6%;
+}
+.admin_img img {
+border: solid 4px #99CCCC;
+border-radius: 20px;
+margin-bottom: 15px;
+background-color: teal;
+float: left;
+margin-left: 6%;
+width: 15%;
+margin-top: 30px;
+}
+.right ul li {
+float: left;
+width: 15%;
+margin-left: 4.7%;
+display: block;
+margin-top: 11px;
+}
+.right ul {
+float: left;
+width: 76%;
+background-color: rgb(180, 227, 189);
+height: 40px;
+border-radius: 14px;
+margin-left: 11%;
+margin-top: 10px;
+}
+.right ul li a:hover {
+color: brown;
+}
+.right ul li a {
+text-decoration: none;
+color: black;
+font-size: larger;
+}
+
